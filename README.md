@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan, an <a href="https://www.linkedin.com/in/ryan-potter-09b4a397/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ryan Potter, an <a href="https://www.linkedin.com/in/ryan-potter-09b4a397/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
